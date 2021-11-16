@@ -1,0 +1,4 @@
+# Kubernetes
+kubectl get pods - просмотр кластеров
+kubectl run first --image=ubuntu:20.04 --port=80 создание кластера из образа ubuntu:20.04
+
